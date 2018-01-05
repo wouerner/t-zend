@@ -1,6 +1,6 @@
 {
-    "name": "wouerner/tZend",
-    "description": "My first Composer project",
+    "name": "wouerner/t-zend",
+    "description": "Gerador de mocks para phpunit focado no Zend Framwwork 1",
     "authors": [
         {
             "name": "Wouerner",
