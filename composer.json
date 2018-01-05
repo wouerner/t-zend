@@ -1,0 +1,16 @@
+{
+    "name": "wouerner/tZend",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Wouerner",
+            "email": "wouerner@protonmail.com"
+        }
+    ],
+    "require":{
+        "symfony/console":"2.3.x"
+    },
+    "autoload": {
+        "psr-4": {"TZend\\": "src/"}
+    }
+}
